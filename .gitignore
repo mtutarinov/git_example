@@ -1,2 +1,4 @@
 test_ignore
 test1
+*.a
+!lib.a
